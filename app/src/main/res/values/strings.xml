@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">customCars</string>
+
+    <string-array name="car_list">
+        <item>Ford Raptor</item>
+        <item>Volkswagon Golf</item>
+        <item>Honda Civic</item>
+        <item>Chrysler Pacifica</item>
+        <item>Chevrolet Corvette</item>
+        <item>Mercedes AMG</item>
+        <item>Honda Ridgeline</item>
+        <item>Dodge Challenger</item>
+        <item>Toyota Corolla</item>
+        <item>Mazda Miata</item>
+        <item>Mazda CX5</item>
+        <item>Ford Mustang</item>
+        <item>Ferrari Tributo</item>
+        <item>BMW M2</item>
+        <item>Audi Q8</item>
+        <item>Hyundai Veloster</item>
+        <item>Nissan GTR</item>
+        <item>Ram 1500</item>
+        <item>Subaru WRX</item>
+        <item>Porsche 911</item>
+    </string-array>
+
+    <string name="fordRaptor_disp">
+        It’s hard to not love the Ford F-150 Raptor. It can do the generic
+    truck stuff like hauling lumber and sheetrock. It can also hit
+    jumps and charge through the desert better than it has any right to.
+    Most of all, you can get one today. Sure, the Raptor downgraded its
+    exhaust note when Ford moved to the 3.5-liter V6 EcoBoost with its
+    second generation, but that exhaust note sacrifice came with more power.
+    The Ford F-150 Raptor will soon face some stiff competition from the
+    likes of Ram with the 1500 TRX.
+    </string>
+
+    <string name="volkswagonGolf_disp">
+        The Volkswagen Golf GTI is consistently one of the most fun-to-drive
+        cars available, at any price point. While we’re in the middle of a
+        generational shift for the model, it doesn’t look like Volkswagen
+        plans to undermine what people love about the Golf GTI with the next
+        generation. The current gen is powered by a turbocharged 2.0-liter
+        inline-four making 228 hp and 258 lb-ft of torque. Most importantly,
+        it offers a six-speed manual transmission.
+    </string>
+
+    <string name="hondaCivic_disp">
+        Another low-priced entry into the list of the best cars available,
+        the 10th-generation Honda Civic might go down as one of the best
+        of the nameplate. If nothing else, it is one of the most versatile
+        commuters on the market. Of course, you can take the Civic hatchback
+        to its Type R top trim, if your pocketbook can afford the hit.
+    </string>
+
+    <string name="chryslerPacifica_disp">
+        There’s no list of best anything if there isn’t a minivan present,
+        and Chrysler’s revived Pacifica nameplate is one of the best you
+        can find. Available with a traditional powertrain or a hybrid variant,
+        the Pacifica excels in both trims. The hybrid does cost more, and it
+        drops the glory that is stow-and-go seating but helps you eke out better
+        fuel economy. Both are more than adequate at fulfilling all of your
+        minivan-related needs.
+    </string>
+
+    <string name="chevroletCorvette_disp">
+        $59,995. That’s how much a midengine, V8-powered sports car costs,
+        thanks to the folks at Chevrolet. The eighth-generation Corvette
+        has flipped the script on the ’Vette and finally dropped the engine
+        behind the driver. The result? What might be the best performance
+        bargain you’ll find, if you’re chasing a midengine sports car.
+    </string>
+
+    <string name="mercedes_disp">
+        Prefer the engine in front? That’s fine, too. The folks at
+        Mercedes-AMG offer one of the most interesting and fun high-end
+        sports cars on the market today. With a 4.0-liter turbocharged V8
+        letting your neighbors know you mean business, the AMG GT R is
+        aggressive in every sense of the word. Oh yeah, let’s not forget
+        that this is the hot-rodded version of the stunning AMG GT, a design
+        that should age as well as the Mercedes-Benz 300SL.
+    </string>
+
+    <string name="hondaRidgeline_disp">
+        Can you have a list without controversy? Some might look at the
+        Honda Ridgeline and scream “That’s not a real truck!” That’s fine.
+        However, it is a truck and fills the void left by the absence of
+        the compact truck market. If you don’t need to move your whole
+        county, the Honda Ridgeline should be good enough to handle the
+        truck stuff without sacrificing any of the SUV comforts. It should
+        be noted, I’m also a fan of Ford’s Ranchero and Chevrolet’s El Camino.
+    </string>
+
+    <string name="dodgeChallenger_disp">
+        Back to the regularly scheduled programming. Dodge’s laundry list of
+        Challenger packages is impressive, with the SRT Hellcat Redeye and
+        SRT Super Stock at the top of its food chain. However, going down to
+        the less powerful, and more affordable, Scat Pack trim might be the
+        sweet spot for a lot of muscle car enthusiasts. More importantly, you
+        can still get a six-speed manual behind the 392 Hemi.
+    </string>
+
+    <string name="toyotaCorolla_disp">
+        If you’re not exactly performance minded or want to let the world know
+        that you are an EV devotee, there is no better answer than the Toyota
+        Corolla hybrid. Essentially a Prius in a Corolla shell, this hybrid is
+        not only great on fuel but offers an outlandish amount of driving range
+        for those who hate to refuel.
+    </string>
+
+    <string name="mazdaMiata_disp">
+        Much like the Volkswagen GTI, you can’t have a list of best anything
+        without including Mazda’s beloved MX-5 Miata. The Miata might not be the
+        quickest sports car, but its lightweight and nimble nature make it an
+        absolute hoot to drive. No, it won’t lap the Nürburgring in under seven
+        minutes, but if you want a nice weekend driver, Miata is always the answer.
+    </string>
+
+    <string name="mazdaMX5_disp">
+        Don’t worry, there are crossovers, too. The Mazda CX-5 fills the need
+        for a crossover in Mazda’s lineup, while also being one of the more
+        fun-to-drive crossovers on the market. Starting at just over $25,000,
+        the Mazda CX-5 also punches above its weight in terms of comfort and interior
+        quality, which only adds to its sound driving characteristics.
+    </string>
+
+    <string name="fordMustang_disp">
+        The Ford Mustang Shelby GT350 might be a mouthful to say, but it’s worth it.
+        While its swan-song final edition is here, and it’s not long for the new car
+        lots, the Shelby GT350 might be one of the best Mustangs to ever leave a Ford
+        factory. The 5.2-liter naturally aspirated V8 revs over 8,000 rpm and sounds
+        incredible with its unique flat-plane crankshaft.
+    </string>
+
+    <string name="ferrariF8_disp">
+        The latest in a long line of fantastic Ferrari sports cars, the F8 Tributo
+        picks up where the 488 left off. Powered by a turbocharged 3.9-liter V8,
+        you might not think it’s as pure a sports car as the Ferrari 458, but it’s
+        hard to argue with performance.
+    </string>
+
+    <string name="bmwM2_disp">
+        The BMW M2 (and its little sibling the BMW M240i) might be the most beloved
+        BMW in the Autoweek office. Powered by a 405-hp 3.0-liter turbocharged
+        straight-six, the M2 keeps the spirit of high-performance and driving-focused
+        BMWs alive. Of course, it’s also no slouch when it comes to comfort, but its
+        track-forward approach makes it a favorite.
+    </string>
+
+    <string name="audiQ8_disp">
+        Another incredibly interesting crossover is the Audi Q8. While the concept of
+        a coupe-ified crossover does sound like nails on a chalkboard to some, the
+        Audi Q8 pulls off the style-focused look better than most. Sure, there is a
+        slight compromise when it comes to cargo space, but sometimes style is more
+        important than function.
+    </string>
+
+    <string name="hyundaiVeloster_disp">
+        The Hyundai Veloster N is the freshest face to the hot hatch game, and it’s
+        deserving of a ton of praise. Priced under the Honda Civic Type R, you get
+        almost the performance brunt of the Civic for a lighter monthly payment.
+    </string>
+
+    <string name="nissanGTR_disp">
+        The Nissan GT-R is on the older side of the new car world. But, what’s wrong
+        with a formula that works? Colloquially called the R35 GT-R, this Nissan halo
+        car does lack some modern tech features seen in other high-end sports cars.
+        That said, it more than makes up for that with a race car feel and unbelievable
+        performance.
+    </string>
+
+    <string name="ram1500_disp">
+        The latest generation of Ram pickup might have reset what people expect from
+        full-size, light-duty trucks. Its combination of comfort, space and utility
+        make it a one-stop shop for those who don’t mind driving trucks daily. Its
+        large infotainment screen and other tech comforts have turned the truck into
+        a consummate tech marvel instead of a workhorse.
+    </string>
+
+    <string name="subaruWRX_disp">
+        Without the Mitsubishi Lancer Evolution to push Subaru’s rally-bred WRX STI along,
+        you might think that Subie would have just ridden its good name. Instead, Subaru
+        has pushed the WRX STI further with limited-edition models like WRX STI Type RA
+        and the WRX STI S209. While these special editions are costly, they do add tons of
+        value to the base STI. If you can’t afford the high-end versions, worry not: The base
+        WRX STI is a blast to drive all year.
+    </string>
+
+    <string name="porsche911_disp">
+        Kind of like the Mazda Miata, you can’t make a list of best cars and leave Porsche
+        off the list. With the new generation of 911 upon us, we still have a lot to learn
+        as far as the higher-performance variants making their way down the pipeline. What
+        we do know is that the latest 992 generation is, predictably, impressive to drive.
+    </string>
+</resources>
